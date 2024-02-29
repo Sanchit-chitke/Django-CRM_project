@@ -21,7 +21,8 @@ Steps to run the project:
 
 <br>
 
-![image](https://github.com/Sanchit-chitke/Django-CRM_project/assets/109956204/6142b303-4db9-4a87-8ced-19239152f12d)
+![image](https://github.com/Sanchit-chitke/Django-CRM_project/assets/109956204/a03f9401-9a0a-4bb0-921d-c8b79feee48b)
+
 
 
 <hr>
